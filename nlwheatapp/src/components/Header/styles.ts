@@ -9,7 +9,7 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
     paddingHorizontal: 20
   },
-  logoutButtom: {
+  logoutButton: {
     flexDirection: 'row',
     alignItems: 'center',
   },
